@@ -1,0 +1,28 @@
+.landing-inner {
+    
+    color: #fff;
+    height: 100%;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .fom-vote{
+    display: flex;
+    align-items: center;
+    
+  }
+  .chart-vote{
+    
+  }
+  .buttom{
+      margin:2rem
+  }
+  .item{
+      display: flex;
+      justify-content: space-between;
+      margin: 1.5rem;
+  }
